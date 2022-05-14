@@ -1,4 +1,6 @@
+
 echo " printing from 1 to 10"
+
 
 # this is just for test 
 
