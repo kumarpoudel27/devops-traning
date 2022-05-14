@@ -1,2 +1,2 @@
 *.Log
-#config.Log
+!config.Log
