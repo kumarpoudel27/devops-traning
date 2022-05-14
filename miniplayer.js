@@ -1,13 +1,12 @@
-echo " printing from 3 to500"
+
+echo " printing from 1 to 10"
+
 
 # this is just for test 
 
 while [[ i "$i" -le "$num"]]: do 
 
 done
-
-
-
 
 (function(g){var window=this;'use strict';var I3=function(a){g.V.call(this,{F:"div",L:"ytp-miniplayer-ui"});this.Ve=!1;this.player=a;this.P(a,"minimized",this.ah);this.P(a,"onStateChange",this.xJ)},J3=function(a){g.lJ.call(this,a);
 this.j=new I3(this.player);this.j.hide();g.YI(this.player,this.j.element,4);a.Af()&&(this.load(),g.M(a.getRootNode(),"ytp-player-minimized",!0))};
